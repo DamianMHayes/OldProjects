@@ -1,0 +1,17 @@
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\bin\Debug\net6.0-windows\InchesToCentimentersGUI.exe
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\bin\Debug\net6.0-windows\InchesToCentimentersGUI.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\bin\Debug\net6.0-windows\InchesToCentimentersGUI.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\bin\Debug\net6.0-windows\InchesToCentimentersGUI.dll
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\bin\Debug\net6.0-windows\InchesToCentimentersGUI.pdb
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.Form1.resources
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.csproj.GenerateResource.cache
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.dll
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\refint\InchesToCentimentersGUI.dll
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.pdb
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\InchesToCentimentersGUI.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\InchesToCentimentersGUI\obj\Debug\net6.0-windows\ref\InchesToCentimentersGUI.dll
