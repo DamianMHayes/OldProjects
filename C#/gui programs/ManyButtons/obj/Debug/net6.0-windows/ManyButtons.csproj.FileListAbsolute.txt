@@ -1,0 +1,17 @@
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\bin\Debug\net6.0-windows\ManyButtons.exe
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\bin\Debug\net6.0-windows\ManyButtons.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\bin\Debug\net6.0-windows\ManyButtons.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\bin\Debug\net6.0-windows\ManyButtons.dll
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\bin\Debug\net6.0-windows\ManyButtons.pdb
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.Form1.resources
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.csproj.GenerateResource.cache
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.dll
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\refint\ManyButtons.dll
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.pdb
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ManyButtons.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\ManyButtons\obj\Debug\net6.0-windows\ref\ManyButtons.dll
