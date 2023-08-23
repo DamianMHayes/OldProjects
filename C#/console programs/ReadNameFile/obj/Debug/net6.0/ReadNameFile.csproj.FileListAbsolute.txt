@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\bin\Debug\net6.0\ReadNameFile.exe
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\bin\Debug\net6.0\ReadNameFile.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\bin\Debug\net6.0\ReadNameFile.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\bin\Debug\net6.0\ReadNameFile.dll
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\bin\Debug\net6.0\ReadNameFile.pdb
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.dll
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\refint\ReadNameFile.dll
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.pdb
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ReadNameFile.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\ReadNameFile\obj\Debug\net6.0\ref\ReadNameFile.dll

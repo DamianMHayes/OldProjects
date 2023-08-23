@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\bin\Debug\net6.0\TippingTable.exe
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\bin\Debug\net6.0\TippingTable.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\bin\Debug\net6.0\TippingTable.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\bin\Debug\net6.0\TippingTable.dll
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\bin\Debug\net6.0\TippingTable.pdb
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.dll
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\refint\TippingTable.dll
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.pdb
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\TippingTable.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\TippingTable\obj\Debug\net6.0\ref\TippingTable.dll
