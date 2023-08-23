@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.exe
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.dll
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\bin\Debug\net6.0\DiscountDelegateDemo.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.dll
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\refint\DiscountDelegateDemo.dll
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\DiscountDelegateDemo.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\DiscountDelegateDemo\obj\Debug\net6.0\ref\DiscountDelegateDemo.dll

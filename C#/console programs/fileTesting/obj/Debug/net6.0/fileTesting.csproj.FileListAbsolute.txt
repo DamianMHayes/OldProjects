@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\bin\Debug\net6.0\fileTesting.exe
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\bin\Debug\net6.0\fileTesting.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\bin\Debug\net6.0\fileTesting.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\bin\Debug\net6.0\fileTesting.dll
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\bin\Debug\net6.0\fileTesting.pdb
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.dll
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\refint\fileTesting.dll
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.pdb
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\fileTesting.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\fileTesting\obj\Debug\net6.0\ref\fileTesting.dll

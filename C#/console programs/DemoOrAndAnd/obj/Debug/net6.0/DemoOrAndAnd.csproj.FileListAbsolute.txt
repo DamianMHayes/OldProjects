@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\bin\Debug\net6.0\DemoOrAndAnd.exe
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\bin\Debug\net6.0\DemoOrAndAnd.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\bin\Debug\net6.0\DemoOrAndAnd.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\bin\Debug\net6.0\DemoOrAndAnd.dll
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\bin\Debug\net6.0\DemoOrAndAnd.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.dll
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\refint\DemoOrAndAnd.dll
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\DemoOrAndAnd.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoOrAndAnd\obj\Debug\net6.0\ref\DemoOrAndAnd.dll
