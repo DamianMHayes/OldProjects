@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoBankEvent", "DemoBankEvent.csproj", "{832761F9-1739-496D-AD39-7E0BBDB0B245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{832761F9-1739-496D-AD39-7E0BBDB0B245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832761F9-1739-496D-AD39-7E0BBDB0B245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832761F9-1739-496D-AD39-7E0BBDB0B245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832761F9-1739-496D-AD39-7E0BBDB0B245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3FF7E3-6025-4C94-8F4D-04A54FC127F8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\bin\Debug\net6.0\CompareThreeNumbers.exe
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\bin\Debug\net6.0\CompareThreeNumbers.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\bin\Debug\net6.0\CompareThreeNumbers.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\bin\Debug\net6.0\CompareThreeNumbers.dll
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\bin\Debug\net6.0\CompareThreeNumbers.pdb
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.dll
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\refint\CompareThreeNumbers.dll
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.pdb
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\CompareThreeNumbers.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\CompareThreeNumbers\obj\Debug\net6.0\ref\CompareThreeNumbers.dll

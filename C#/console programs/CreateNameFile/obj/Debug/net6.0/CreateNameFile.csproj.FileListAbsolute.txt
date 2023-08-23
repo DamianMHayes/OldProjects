@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\bin\Debug\net6.0\CreateNameFile.exe
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\bin\Debug\net6.0\CreateNameFile.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\bin\Debug\net6.0\CreateNameFile.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\bin\Debug\net6.0\CreateNameFile.dll
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\bin\Debug\net6.0\CreateNameFile.pdb
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.dll
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\refint\CreateNameFile.dll
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.pdb
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\CreateNameFile.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\CreateNameFile\obj\Debug\net6.0\ref\CreateNameFile.dll

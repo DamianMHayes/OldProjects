@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\bin\Debug\net6.0\DemoBankEvent.exe
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\bin\Debug\net6.0\DemoBankEvent.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\bin\Debug\net6.0\DemoBankEvent.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\bin\Debug\net6.0\DemoBankEvent.dll
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\bin\Debug\net6.0\DemoBankEvent.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.dll
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\refint\DemoBankEvent.dll
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\DemoBankEvent.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\DemoBankEvent\obj\Debug\net6.0\ref\DemoBankEvent.dll
