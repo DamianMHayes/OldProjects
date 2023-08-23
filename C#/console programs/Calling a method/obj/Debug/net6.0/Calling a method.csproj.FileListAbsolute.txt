@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\bin\Debug\net6.0\Calling a method.exe
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\bin\Debug\net6.0\Calling a method.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\bin\Debug\net6.0\Calling a method.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\bin\Debug\net6.0\Calling a method.dll
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\bin\Debug\net6.0\Calling a method.pdb
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.dll
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\refint\Calling a method.dll
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.pdb
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\Calling a method.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\Calling a method\obj\Debug\net6.0\ref\Calling a method.dll

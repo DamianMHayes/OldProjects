@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.exe
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.dll
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.pdb
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.dll
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\refint\ArrayDemo1.dll
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.pdb
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\ArrayDemo1\obj\Debug\net6.0\ref\ArrayDemo1.dll
