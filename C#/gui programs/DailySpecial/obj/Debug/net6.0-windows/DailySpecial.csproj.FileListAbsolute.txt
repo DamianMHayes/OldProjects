@@ -1,0 +1,17 @@
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.Form1.resources
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.csproj.GenerateResource.cache
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.exe
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.dll
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\bin\Debug\net6.0-windows\DailySpecial.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.dll
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\refint\DailySpecial.dll
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.pdb
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\DailySpecial.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\DailySpecial\obj\Debug\net6.0-windows\ref\DailySpecial.dll
