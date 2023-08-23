@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\bin\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.exe
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\bin\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\bin\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\bin\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.dll
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\bin\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.pdb
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.dll
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\refint\Writing a Method That Receives Parameters and Returns a Value.dll
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.pdb
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\Writing a Method That Receives Parameters and Returns a Value.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\Writing a Method That Receives Parameters and Returns a Value\obj\Debug\net6.0\ref\Writing a Method That Receives Parameters and Returns a Value.dll
