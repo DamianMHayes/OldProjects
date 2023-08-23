@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (C++PE4-1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  C++PE4-2.cpp
+E:\Users\Punch\Desktop\Visual studio projects\C++PE4-1\C++PE4-2.cpp(25,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  C++PE4-1.vcxproj -> E:\Users\Punch\Desktop\Visual studio projects\C++PE4-1\x64\Debug\C++PE4-2.exe
