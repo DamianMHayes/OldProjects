@@ -1,0 +1,15 @@
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\bin\Debug\net6.0\WarCardGameConsole.exe
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\bin\Debug\net6.0\WarCardGameConsole.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\bin\Debug\net6.0\WarCardGameConsole.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\bin\Debug\net6.0\WarCardGameConsole.dll
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\bin\Debug\net6.0\WarCardGameConsole.pdb
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.dll
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\refint\WarCardGameConsole.dll
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.pdb
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\WarCardGameConsole.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\WarCardGameConsole\obj\Debug\net6.0\ref\WarCardGameConsole.dll
