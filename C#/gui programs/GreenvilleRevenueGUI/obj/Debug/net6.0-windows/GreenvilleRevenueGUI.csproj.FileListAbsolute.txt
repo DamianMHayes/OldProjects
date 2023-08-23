@@ -1,0 +1,17 @@
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\bin\Debug\net6.0-windows\GreenvilleRevenueGUI.exe
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\bin\Debug\net6.0-windows\GreenvilleRevenueGUI.deps.json
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\bin\Debug\net6.0-windows\GreenvilleRevenueGUI.runtimeconfig.json
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\bin\Debug\net6.0-windows\GreenvilleRevenueGUI.dll
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\bin\Debug\net6.0-windows\GreenvilleRevenueGUI.pdb
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.csproj.AssemblyReference.cache
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.Form1.resources
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.csproj.GenerateResource.cache
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.AssemblyInfoInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.AssemblyInfo.cs
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.csproj.CoreCompileInputs.cache
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.dll
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\refint\GreenvilleRevenueGUI.dll
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.pdb
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\GreenvilleRevenueGUI.genruntimeconfig.cache
+E:\Users\Punch\Desktop\Visual studio projects\GreenvilleRevenueGUI\obj\Debug\net6.0-windows\ref\GreenvilleRevenueGUI.dll
